@@ -1,6 +1,7 @@
 Name: Jake Fulton
 Pitt username: jkf31
-Everything works to the best of my knowledge.
+This project was made in the MIPS assembly simulator MARS. To see and interact with the game display in MARS, select Tools from the top, then Keyboard and LED Display Simulator, then connect.
+Macguffins are the pellets that the player collects to earn points.
 
 The only 2 documents I wrote code in were main.asm and game.asm, although the vast majority is in game.asm.
 In main.asm, I printed text telling the user to press a button to start the game, and detected if buttons were pressed, causing to jump and link to game.asm.
